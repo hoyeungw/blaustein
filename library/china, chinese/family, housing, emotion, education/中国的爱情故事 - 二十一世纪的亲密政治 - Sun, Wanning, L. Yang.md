@@ -80,7 +80,7 @@
 ### 1. 择偶市场价值公式
 ```
 MVQ = (外貌得分 × 0.3) + (教育资本 × 0.4) + (情绪劳动系数 × 0.3)  
-```  
+```
 （引自《爱的十万个为什么》量化体系，Context 14）
 ### 2. 虚拟亲密经济指标
 | 平台            | 日均情感GDP | 情感代偿转化率 |  
@@ -96,7 +96,7 @@ MVQ = (外貌得分 × 0.3) + (教育资本 × 0.4) + (情绪劳动系数 × 0.3
 构建**亲密关系LTV（Lifetime Value）模型**：
 ```
 情感LTV = ∑(情感消费轨迹) × 数字足迹β值  
-```  
+```
 **应用场景**：
 - 开发婚恋市场预测性维护（predictive maintenance）系统
 - 设计情感期货（Affect Futures）对冲离婚率波动风险
@@ -133,5 +133,5 @@ This research unveils three paradigm-shifting opportunities in China's ¥1.2T in
 [战略价值公式]  
 Affective Alpha = (Digital Catharsis × Class-passing Tech) / (Regulatory Friction + Cultural Lag)  
 Current China Benchmark: 0.91 → Disruption Threshold: >1.6  
-```  
+```
 **Final Warning:** Institutions clinging to traditional matchmaking models face 38% user attrition. The future belongs to those who can tokenize vulnerability and securitize desire.
