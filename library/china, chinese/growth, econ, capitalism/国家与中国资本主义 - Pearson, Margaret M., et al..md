@@ -2,11 +2,11 @@
 
 <details >
                   <summary>已深度思考 27 秒</summary>
-                  <blockquote><p>Okay, I need to tackle this query about distilling the book into its core mechanisms using symbolic language, unpacking the thesis, arguments, and logic chains. Let me start by understanding the user’s requirements and the provided context info.</p>
-<p>First, the user wants a multi-level decomposition of the CONTEXT INFO, focusing on the book’s core mechanisms backed by empirical evidence. They mentioned using symbolic syntax like → for causality, ⇄ for loops, and other predefined symbols. Also, need to identify implicit assumptions and derive testable corollaries. Highlight key data and stories, then conclude with a boardroom-ready insight in English.</p>
-<p>Looking at the CONTEXT INFO, the book discusses China’s political economy evolution, comparing it to classic models like capitalism, socialism, developmental state, and post-socialist transitions. The authors argue that China’s model is unique, blending party-state control with market elements, leading to a new paradigm called Party-State Capitalism. Key points from the context include the blurring of state-private ownership, the role of the CCP, responses to internal and external threats, and comparisons with other models.</p>
-<p>I need to structure the answer according to the Core Task: Breakdown, Assumptions &amp; Corollaries, Story Distillation. Use the symbolic syntax to map out the mechanisms. For example, the shift from gradual reforms to increased state control could be represented with arrows and loops. Empirical evidence like the “grasping the big, releasing the small” policy, SOE restructuring, and responses to the Global Financial Crisis should be included.</p>
-<p>Implicit assumptions might be that the CCP’s leadership is essential and that state intervention can effectively manage market risks. Testable corollaries could involve predicting how increased state control affects economic growth or how external backlash impacts China’s global integration.</p>
+                  <blockquote><p>Okay, I need to tackle this query about distilling the book into its core mechanisms using symbolic language, unpacking the thesis, arguments, and logic chains. Let me start by understanding the user's requirements and the provided context info.</p>
+<p>First, the user wants a multi-level decomposition of the CONTEXT INFO, focusing on the book's core mechanisms backed by empirical evidence. They mentioned using symbolic syntax like → for causality, ⇄ for loops, and other predefined symbols. Also, need to identify implicit assumptions and derive testable corollaries. Highlight key data and stories, then conclude with a boardroom-ready insight in English.</p>
+<p>Looking at the CONTEXT INFO, the book discusses China's political economy evolution, comparing it to classic models like capitalism, socialism, developmental state, and post-socialist transitions. The authors argue that China's model is unique, blending party-state control with market elements, leading to a new paradigm called Party-State Capitalism. Key points from the context include the blurring of state-private ownership, the role of the CCP, responses to internal and external threats, and comparisons with other models.</p>
+<p>I need to structure the answer according to the Core Task: Breakdown, Assumptions &amp; Corollaries, Story Distillation. Use the symbolic syntax to map out the mechanisms. For example, the shift from gradual reforms to increased state control could be represented with arrows and loops. Empirical evidence like the "grasping the big, releasing the small" policy, SOE restructuring, and responses to the Global Financial Crisis should be included.</p>
+<p>Implicit assumptions might be that the CCP's leadership is essential and that state intervention can effectively manage market risks. Testable corollaries could involve predicting how increased state control affects economic growth or how external backlash impacts China's global integration.</p>
 <p>For data-driven elements, mention stats like the timing of reforms (1997-2003 for SOE restructuring), the impact of the Global Financial Crisis on external demand, and events like the Hong Kong protests or COVID-19 pandemic as exogenous factors.</p>
 <p>The Story Distillation should follow Prime → Thesis → Mechanisms → Models → Corollaries → Paradigm Shifts → Insights. Ensure each part is complex and composite, using the symbolic language to show relationships.</p>
 <p>Finally, the boardroom insight needs to be in English, leveraging the findings to suggest strategic shifts, like reassessing investment in sectors with state intervention or anticipating regulatory changes.</p>
@@ -33,7 +33,7 @@
 
 ---
 
-#### **Ⅱ. 机制拆解：三重复合动力系统 (Tripartite Dynamical System)**  
+#### **Ⅱ. 机制拆解: 三重复合动力系统 (Tripartite Dynamical System)**  
 **A. 内生适应机制 (Endogenous Adaptation Engine)**  
 1. **实验性治理 (Experimental Governance)**:  
    - 渐进改革路径:  
@@ -101,7 +101,7 @@
 
 ---
 
-#### **Ⅴ. 叙事蒸馏：四维转型史诗 (Quadripartite Transition Narrative)**  
+#### **Ⅴ. 叙事蒸馏: 四维转型史诗 (Quadripartite Transition Narrative)**  
 **Prime Driver**: 生存焦虑 (existential anxiety) → 发展型威权主义 (developmental authoritarianism) 的迭代适应  
 **Phase I: 制度杂交实验 (1980-2000)**  
 ```
