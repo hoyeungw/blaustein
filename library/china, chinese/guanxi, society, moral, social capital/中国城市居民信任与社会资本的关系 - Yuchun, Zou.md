@@ -34,14 +34,18 @@
 信任（Trust） ≠ 静态心理状态，而是**动态风险计算框架**:  
 **T = f(Information∫[t] ~⁺ Cognitive Capacity ~⁻ Risk Exposure) ⊲ Institutional Anchoring**  
 → 实证验证：  
+
 - 当制度信任（Institutional Trust）↑1单位，风险感知（Risk Perception）↓23%  
 - 认知能力（Cognitive Capacity）与信息密度（Information Density）呈正反馈循环（⇄⁺ r=0.67）
+
 **(B) 社会资本拓扑**:  
 讨论网络（Discussion Networks）创造的社会资本具备**非对称资源封装性**:  
 **SC_d = Σ(关系强度[α] × 节点资源[β]^γ)**，其中γ=0.82（边际衰减系数）  
 → 春节网络（Chinese New Year Networks）的资源异质性（Heterogeneity）比讨论网络低37%
+
 **(C) 制度调节效应**:  
 制度资源（Institutional Resources）通过**双通道调节**:  
+
 1. **信号增强通道**: 降低信息验证成本（Verification Cost ↓19%/单位制度透明度）  
 2. **惩罚威慑通道**: 提升违约预期损失（Default Loss ↑34%/单位法治强度）  
 → 形成制度信任对人际信任的杠杆效应（Leverage Ratio=1:2.7）

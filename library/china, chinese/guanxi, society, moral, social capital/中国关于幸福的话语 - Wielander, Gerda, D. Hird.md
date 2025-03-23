@@ -44,13 +44,17 @@ S (State Policy: 社会主义核心价值观) → PT (Public Transcripts: 主流
 ```
 - **强化回路**: PT ⇄⁺ EM → 社会合规性↑（如“微笑计划”广告的视觉修辞 (Context 28)）。  
 - **平衡回路**: HM ⊲ 经济不平等（基尼系数↑0.474→幸福感知↓12% (Context 7衍生数据)）。  
+
 **B. 个体适应性策略的隐形市场（Invisible Hand of Adaptive Strategies）**  
+
 ```
 AS (Adaptive Strategies: 自我优化技术) ~⁺ SM (Social Markers: 成功标志物) → VD (Value Diffusion: 价值观扩散)  
 ```
 - Welzel-Inglehart模型：社会流动率↑1%→策略模仿速度↑2.3%（Context 14）。  
 - 革命精神 (Revolutionary Spirit) 作为路径依赖：毛泽东时代话语对当代幸福手册的影响权重保留63%（Context 12）。  
+
 **C. 抵抗拓扑学：隐性话语的次生系统（Resistance Topology）**  
+
 ```
 HT (Hidden Transcripts: 民间段子/网络匿名批评) ⇄⁻ PT → IP (Infrapolitics: 底层政治)  
 ```
@@ -91,7 +95,7 @@ HT (Hidden Transcripts: 民间段子/网络匿名批评) ⇄⁻ PT → IP (Infra
 
 ---
 
-### **TERMINAL INSIGHT (en-US)**  
+### **TERMINAL INSIGHT**  
 **Paradigm Shift Leverage Point**:  
 The Chinese happiness discourse matrix reveals that **state-engineered well-being programs create diminishing returns beyond a *Critical Compliance Threshold* (CCT)**, where excessive emotional labor costs trigger sophisticated resistance ecosystems. To avoid this trap, organizational strategies must:  
 1. **Adopt *Neuro-Cultural Feedback Loops***: Embed real-time biometric sensing (e.g., EEG wearables) to quantify the hidden emotional cost of compliance programs. Example: When employee smile intensity (measured via facial EMG) drops below 0.7μV, automatically trigger policy recalibration.  

@@ -38,7 +38,9 @@
   (政策话语 (Policy Discourse) → (中产阶级规模↑[12% CAGR] → 社会稳定指数↑[β=0.67]) &⁻ (实际收入中位数↓[3.2% YoY] → 阶级认同危机 (Class Identity Crisis))  
   - 证据点: 国务院发展研究中心2012报告设定中产阶级占人口60%目标，但 Bian (2002) 调查显示仅38%自认"中产"，揭示**象征资本 (Symbolic Capital)** 与**经济资本 (Economic Capital)** 的脱嵌。  
   - **隐含假设**: 中产阶级的道德规训功能 (Moral Disciplinary Function) 可线性转化为政治稳定，忽略**惯习滞后效应 (Habitus Hysteresis)**（Bourdieu 2000）。  
-  **1.2 断裂社会理论 (Fractured Society Theory)**  
+
+**1.2 断裂社会理论 (Fractured Society Theory)**  
+
 - **模型结构**:  
   (市场化改革 → (城乡收入比↑[2.8→3.3] & 基尼系数↑[0.35→0.49]) → 社会流动通道闭合 (Closure of Mobility Channels) ⇄⁺ 亚文化圈层固化 (Subcultural Segregation))  
   - 孙立平 (2006) 的"断裂"概念体现为：农民工市民化率<18% (∫[户籍壁垒])，知识精英与体制的**共谋依赖 (Collusive Dependency)**（Wright 1997）。  
@@ -64,7 +66,9 @@
 - **控制论模型**:  
   ∫[社会矛盾指标] → (政策响应延迟<6个月 → 群体事件发生率↓[22%]) | (延迟>12个月 → 维稳成本↑[¥340亿/年])  
   - 1993年启动的蓝皮书工程通过∫[2000+县域数据]构建风险热图，但存在**选择性治理盲区 (Selective Governance Blindspots)**（Li 2020）。  
-  **3.2 惯习的适应性突变**  
+
+**3.2 惯习的适应性突变**  
+
 - **递归修正方程**:  
   Habitus(t+1) = λ·Habitus(t) + (1-λ)·Policy Shock(t)  
   其中λ=0.83（基于移民研究 (Migration Studies) 中住房选择惯性系数，见Levin 2016）  
