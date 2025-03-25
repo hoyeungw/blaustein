@@ -1,20 +1,22 @@
-import { recurLot }                   from '@iohub/iter'
-import { exists }                     from '@iohub/pathinfo'
-import { promptDirs, promptDocs }     from '@iohub/prompt'
-import { decoPath, Fades }            from '@spare/deco-path'
-import { says }                       from '@spare/logger'
-import { mkdir, readFile, writeFile } from 'node:fs/promises'
-import { join }                       from 'node:path'
-import { convPuncs, convSigns }       from './utils/string-utils.js'
+import { recurLot }                        from '@iohub/iter'
+import { exists }                          from '@iohub/pathinfo'
+import { promptDirs, promptDocs }          from '@iohub/prompt'
+import { decoPath, Fades }                 from '@spare/deco-path'
+import { says }                            from '@spare/logger'
+import { mkdir, readFile, writeFile }      from 'node:fs/promises'
+import { join }                               from 'node:path'
+import { convPuncs, convSigns, shrinkSpaces } from './utils/string-utils.js'
 
 const UTF8 = { encoding: 'utf-8' }
 async function modifyFile(source, target) {
   const fades = this
   try {
-    const prev = await readFile(source, UTF8)
-    let next = convPuncs(prev)
+    const text = await readFile(source, UTF8)
+    let next = text
+    next = convPuncs(next)
     next = convSigns(next)
-    if (prev === next) return void (fades.deco(source))
+    next = shrinkSpaces(next)
+    if (text === next) return void (fades.deco(source))
     await writeFile(target ?? source, next, UTF8)
     console.log(`modified → ${fades.deco(source)}`)
   } catch (error) {
@@ -67,4 +69,4 @@ async function recurAmend(base, dest, branch) {
 }
 
 // Run the script
-await recurAmend(process.cwd(), process.cwd()) // join(process.cwd())
+await recurAmend(process.cwd(), process.cwd()) // join(process.cwd(), '../static')
