@@ -43,7 +43,7 @@
   1. 亲属距离弹性系数(Kinship Distance Elasticity)⊣ 工具性需求强度  
   2. 联盟不确定性(Alliance Uncertainty)~⁺ 市场经济波动性  
   3. 情感投资回报率(ROI of Emotional Investment)⊳ 长期互惠预期  
-  **民族志证据**:  
+- **民族志证据**:  
   - 彩礼转型: 从家族间财富转移(Bridewealth)→ 新娘个人资本(Bride's Capital)↑[2000s新娘支配比例↑75%]  
   - 分家时间提前(Family Division Timing)↓[平均从婚后5年→2年] → 核心家庭(Nuclear Family)自治度↑  
 

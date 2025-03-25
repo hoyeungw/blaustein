@@ -231,18 +231,26 @@
 **现状分析(Status Quo Analysis)**:  
 - 物质基础: 人均GDP $10,000+ 但区域差异系数0.65  
 - 上层建筑: 集体主义叙事 ⇄⁻ 个人价值实现诉求  
+
 **矛盾识别(Contradiction Identification)**:  
+
 - C1: 市场经济效率逻辑 ⫣ 社会主义公平原则  
 - C2: 全球化人才标准 ⇄⁻ 本土意识形态安全  
+
 **张力图谱(Tension Mapping)**:  
+
 - 关键冲突点:   
   - 海外留学群体(西方价值观暴露风险 ↑)  
   - 平台经济从业者(劳动权益界定模糊)  
-  **整合机制(Integration Mechanics)**:  
+
+**整合机制(Integration Mechanics)**:  
+
 - 新型劳动伦理建构:   
   - "奉献-回报"正反馈环(绩效贡献 ~⁺ 社会尊重度)  
   - 职业生涯阶梯设计(蓝领→灰领→白领转化通道)  
-  **超越方案(Transcendent Solution)**:  
+
+**超越方案(Transcendent Solution)**:  
+
 - 社会主义市场经济2.0:   
   - 人力资本证券化试点(技能积分 ⇄⁺ 信贷额度)  
   - 意识形态柔性管理(短视频正能量传播 ⇄⁺ 大数据情绪监测)  
@@ -263,3 +271,9 @@
 - **Bull Case**: Construct barbell of (vocational education O2O platforms ⨉ mental health apps with CCP-approved content modules)  
 - **Hedge**: Short luxury retail exposed to old-money elites vulnerable to "common prosperity" wealth redistribution shocks.  
 The game's afoot - either code-switch into the New Class Dynamics or get relegated to obsolete Western-centric narratives. The middle kingdom's middle class machinery is rewiring capitalism's OS. Position accordingly.
+
+
+
+# 90s Features
+
+(∫1990s Gen↑[C↑18% | L↑140bps] ⫣ (Urbanization⇄⁺ SOE Reform → (Old Middle Class↓[Rural 40%↓] & New Middle Class↑[Tech/Managerial 2.7σ])) → (Consumption Stack: ∫Durable Goods↑[$420B] ⇄⁺ ∫Luxury↑[EU 60% Market Share] ⫣ iPhone6↑[T+0 Adoption]) & Social Dynamics: (WeChat↑[438M MAU] → Self-Expression↑[Exhibits/Social Media] ~⁺ Individualism↑) &⁻ (Collective Ethics↓[Δ -2.1σ] ⫣ Core Values⫣) → Structural Instability: (Income Volatility⇄⁻ Industrial Upheaval[Δ 0.74x] & Education-Civic Gap[Δ 25%↓]) ⊲ Policy Inertia[Pension Fragmentation⫣ 200M Uninsured]). 
