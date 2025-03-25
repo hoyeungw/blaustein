@@ -1,12 +1,20 @@
+export const replaceable = (dict) => Object.defineProperty(dict, Symbol.replace, {
+  value(word) {
+    for (const x in this) word = word.replace(x, this[x])
+    return word
+  },
+  configurable: true,
+  enumerable: false,
+})
+
 const RAW_PUNCS = {
   '，': ', ', // Chinese comma to English comma
-  '、': ',', // Chinese enumeration comma to English comma
+  '、': ', ', // Chinese enumeration comma to English comma
   '；': '; ', // Chinese semicolon to English semicolon
   '。': '. ', // Chinese period to English period
   '！': '! ', // Chinese exclamation mark to English exclamation mark
   '？': '? ', // Chinese question mark to English question mark
   '：': ': ', // Chinese colon to English colon
-  '—': '-', // Chinese hyphen to English hyphen
   '“': '"', // Chinese left double quotation mark to English double quotation mark
   '”': '"', // Chinese right double quotation mark to English double quotation mark
   '‘': '\'', // Chinese left single quotation mark to English single quotation mark
@@ -23,30 +31,26 @@ const RAW_PUNCS = {
   '\u2029': '\n', // Paragraph separator to newline
 }
 
+const REG_PUNCS = new RegExp(`[${Object.keys(RAW_PUNCS).join('')}]`, 'g')
 // Function to convert Chinese punctuation to English punctuation
-export const convPuncs = text => text
-  .replace(/[，、；。！？：—“”‘’（）【】《》〈〉\u2028\u2029]/g, (match) => RAW_PUNCS[match] ?? match) // Replace Chinese punctuation with English punctuation
-// .replace(/[-—]+/g, '-') // Replace multi hyphens with a single hyphen
+export const convPuncs = text => text.replace(REG_PUNCS, (match) => RAW_PUNCS[match] ?? match) // Replace Chinese punctuation with English punctuation
+
+
+export const shrinkSpaces = text => text
+  .replace(/—{2}/g, '—') // Replace dual em-dashes with a single em-dash
+  .replace(/[ \t]+$/gm, '') // Eliminate trailing spaces of each line
+  // .replace(/(?<!^)[ \t]{2,}(?!$)/gm, ' ') // Replace multiple spaces to one space, excluding start and end of line
 // .replace(/(\S)-(\S)/g, '$1 - $2') // Add space before and after hyphens
-// .replace(/\s+/g, ' ') // Remove extra spaces
-// .trim() // Trim the string
 
-export const replaceable = (dict) => Object.defineProperty(dict, Symbol.replace, {
-  value(word) {
-    for (let [ x, y ] of this) word = word.replace(x, y)
-    return word
-  },
-  configurable: true,
-  enumerable: false,
-})
-
-const RAW_SIGNS = replaceable(Object.entries({
+const RAW_SIGNS = replaceable({
   '->': '→',
   '<-': '←',
   '⇧': '↑',
   '⇩': '↓',
   '⊣': '⫣',
-}))
+})
+
+const SYMBOLICS = [ '⇄⁺', '⇄⁻', '~⁺', '~⁻', '←', '→', '⊲', '⊳', '⫣' ]
 
 // Function to convert ASCII arrows and signs to Unicode symbols
 export const convSigns = text => text.replace(RAW_SIGNS)
