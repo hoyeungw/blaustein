@@ -3,4 +3,5 @@ node_modules
 .pnpm
 asset
 static
+crypto
 pnpm-lock.yaml
