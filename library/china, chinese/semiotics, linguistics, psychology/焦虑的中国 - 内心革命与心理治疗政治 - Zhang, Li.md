@@ -78,3 +78,4 @@
 
 ### **Boardroom Insight**  
 China's psychotherapy wave creates asymmetric alpha: short "emotional leverage" through Satir sculpting (↓42% family conflict duration) and art therapy (↑1.8x subconscious resolution speed), while longing "social re-embedding" via Zen-Buddhist hybrids (Sharpe 0.72 vs S&P 0.58). Key structural play: position in cross-border therapeutic IPOs (projected $4.2B market by 2025) with embedded policy vol swaps to hedge regulatory gamma. The true arbitrage lies in monetizing the 0.81 correlation between Party doctrine and mindfulness training – a political risk premium that's grossly mispriced.
+# 焦虑的中国 - 内心革命与心理治疗政治 - Zhang, Li

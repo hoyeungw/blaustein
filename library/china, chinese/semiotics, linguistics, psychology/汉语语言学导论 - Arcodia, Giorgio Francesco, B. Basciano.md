@@ -73,3 +73,4 @@ The Chinese linguistic ecosystem presents a **compounding alpha machine** with d
 2. **High-Velocity Syntax Arb**: Morphological compounding (92% novel word output) and resultative V-V pairs mirror multi-strat HF tactics – deploy semantic derivatives across dialectal beta dispersion.  
 3. **Pragmatic Gamma Plays**: Topic-comment architecture enables reflexive info-structure hedging – exploit discourse-new topics as convexity bumps (IV↑1.7σ).  
 **Strategic Allocation**: Overweight Southern Sinitic syntax arb (DO-IO convergence), short OC phonology reconstruction variance via Bayesian priors (Handel 2014 error bands). Language is the ultimate variance swap – structure determines payoff topology.
+# 汉语语言学导论 - Arcodia, Giorgio Francesco, B. Basciano
