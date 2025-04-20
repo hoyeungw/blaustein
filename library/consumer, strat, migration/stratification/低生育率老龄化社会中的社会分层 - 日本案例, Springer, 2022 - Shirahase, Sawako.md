@@ -6,7 +6,7 @@
 
 Higher Education↑ → [White-collar Occupation Probability↑2.7σ] → Lifetime Earnings∫↑$420K → Offspring Education Investment↑ → 闭环强化
 
-[(∫Policy Toolkits[教育/税制/社保] ⫣ Political Capital) → (Phase Transition Control ⊲ Institutional Innovation)] → Possible Futures 
+[(∫Policy Toolkits[教育/税制/社保] ⫣ Political Capital) → (Phase Transition Control ⊲ Institutional Innovation)] → Possible Futures
 
 <details >
                   <summary>已深度思考 27 秒</summary>

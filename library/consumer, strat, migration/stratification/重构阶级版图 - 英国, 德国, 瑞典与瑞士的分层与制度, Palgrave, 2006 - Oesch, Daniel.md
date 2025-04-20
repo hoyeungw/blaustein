@@ -86,134 +86,134 @@ Oesch's work reveals a tectonic shift in class architecture: the old vertical hi
 
 <details >
                   <summary>已深度思考 16 秒</summary>
-                  <blockquote><p>嗯，用户希望我根据提供的上下文信息，解析Daniel Oesch的《Redrawing the Class Map》的核心论点，并用符号语法结合实证数据来展开机制。首先，我需要理解这本书的主要内容和结构。根据目录和上下文，这本书分为两部分，第一部分是关于就业分层的实证分析，第二部分探讨制度嵌入性。作者提出了新的阶级图式，结合了Bourdieu和Erikson-Goldthorpe的理论，强调工作逻辑、水平与垂直分层以及制度嵌入性的累积差异。</p>
-<p>接下来，用户要求使用符号语法，比如积分符号、因果箭头、正负比例符号等，来构建复杂的理论模型。需要确保每个符号都有对应的中文术语和英文注释，例如（∫技术专家(Technical experts)↑ ⫣ 制度嵌入性(Institutional Embeddedness)）。同时，需要引用具体的统计数据，比如表格中的百分比和数值，来支持每个论点。</p>
-<p>用户还提到要避免使用AI常见的陈词滥调，如“量子跃迁”之类的术语，所以需要保持专业，使用高盛或桥水等机构常用的术语风格。此外，输出需要分为中文主体和英文的Boardroom Insight部分，中文部分要详细超过3840字，而英文部分则是简洁的电梯演讲。</p>
-<p>现在需要拆解核心论点：作者的新阶级图式如何通过工作逻辑（技术、组织、人际）和制度嵌入性（养老金、工会、政治参与）重新绘制阶级结构。每个工作逻辑的四个维度（工作过程设置、权威关系、主要导向、技能要求）需要对应到不同的职业类别，如技术专家、经理等，并结合实证数据，如不同阶级在养老金覆盖率、工会成员比例和选举参与率上的差异。</p>
-<p>然后，用符号语法将每个机制连接起来，例如技术工作逻辑如何通过技能要求影响收入，进而影响养老金覆盖，形成正反馈循环。同时，制度嵌入性的三个维度之间可能存在累积劣势或补偿效应，需要用符号表示其相互关系。</p>
-<p>最后，确保所有引用数据来自提供的上下文，如表格中的百分比和数值，避免添加外部信息。可能遇到的挑战是如何将复杂的理论模型用符号语法清晰表达，同时保持逻辑连贯和实证支持。需要反复检查每个符号对应的数据和术语是否正确，确保符合用户的操作协议和格式要求。</p>
+                  <blockquote><p>嗯, 用户希望我根据提供的上下文信息, 解析Daniel Oesch的<Redrawing the Class Map>的核心论点, 并用符号语法结合实证数据来展开机制. 首先, 我需要理解这本书的主要内容和结构. 根据目录和上下文, 这本书分为两部分, 第一部分是关于就业分层的实证分析, 第二部分探讨制度嵌入性. 作者提出了新的阶级图式, 结合了Bourdieu和Erikson-Goldthorpe的理论, 强调工作逻辑, 水平与垂直分层以及制度嵌入性的累积差异. </p>
+<p>接下来, 用户要求使用符号语法, 比如积分符号, 因果箭头, 正负比例符号等, 来构建复杂的理论模型. 需要确保每个符号都有对应的中文术语和英文注释, 例如(∫技术专家(Technical experts)↑ ⫣ 制度嵌入性(Institutional Embeddedness)). 同时, 需要引用具体的统计数据, 比如表格中的百分比和数值, 来支持每个论点. </p>
+<p>用户还提到要避免使用AI常见的陈词滥调, 如"量子跃迁"之类的术语, 所以需要保持专业, 使用高盛或桥水等机构常用的术语风格. 此外, 输出需要分为中文主体和英文的Boardroom Insight部分, 中文部分要详细超过3840字, 而英文部分则是简洁的电梯演讲. </p>
+<p>现在需要拆解核心论点: 作者的新阶级图式如何通过工作逻辑(技术, 组织, 人际)和制度嵌入性(养老金, 工会, 政治参与)重新绘制阶级结构. 每个工作逻辑的四个维度(工作过程设置, 权威关系, 主要导向, 技能要求)需要对应到不同的职业类别, 如技术专家, 经理等, 并结合实证数据, 如不同阶级在养老金覆盖率, 工会成员比例和选举参与率上的差异. </p>
+<p>然后, 用符号语法将每个机制连接起来, 例如技术工作逻辑如何通过技能要求影响收入, 进而影响养老金覆盖, 形成正反馈循环. 同时, 制度嵌入性的三个维度之间可能存在累积劣势或补偿效应, 需要用符号表示其相互关系. </p>
+<p>最后, 确保所有引用数据来自提供的上下文, 如表格中的百分比和数值, 避免添加外部信息. 可能遇到的挑战是如何将复杂的理论模型用符号语法清晰表达, 同时保持逻辑连贯和实证支持. 需要反复检查每个符号对应的数据和术语是否正确, 确保符合用户的操作协议和格式要求. </p>
 </blockquote>
                   </details>
 
 
-### 核心论点解构：后工业社会的阶级重构与制度嵌入性（Redrawing Post-Industrial Class Map through Institutional Embeddedness）
-#### **核心模型架构**  
-(∫工作逻辑(Work Logic)⫣ [技术(Technical) | 组织(Organizational) | 人际(Interpersonal)] ⊲ 资本构成(Capital Composition)) →  
-(阶级分层(Class Stratification) ⇄⁺ 制度嵌入性(Institutional Embeddedness) [养老金系统(Pension) ⇄⁺ 工会(Trade Union) ⇄⁺ 政治公民权(Political Citizenship)]) →  
-(累积劣势(Cumulative Disadvantage)⫣ 市场不平等(Market Inequality) ~⁺ 补偿效应(Compensation Effect))  
+### 核心论点解构: 后工业社会的阶级重构与制度嵌入性(Redrawing Post-Industrial Class Map through Institutional Embeddedness)
+#### **核心模型架构**
+(∫工作逻辑(Work Logic)⫣ [技术(Technical) | 组织(Organizational) | 人际(Interpersonal)] ⊲ 资本构成(Capital Composition)) →
+(阶级分层(Class Stratification) ⇄⁺ 制度嵌入性(Institutional Embeddedness) [养老金系统(Pension) ⇄⁺ 工会(Trade Union) ⇄⁺ 政治公民权(Political Citizenship)]) →
+(累积劣势(Cumulative Disadvantage)⫣ 市场不平等(Market Inequality) ~⁺ 补偿效应(Compensation Effect))
 
 ---
 
-### **一级机制：工作逻辑与水平分层**  
-#### **1. 三维工作逻辑的解剖学（Tripartite Work Logic as Horizontal Cleavage）**  
-**实证基础**：Table 5.1显示三类工资劳动者的分化标准：  
-- **技术工作逻辑**：生产场景(Production Setting) + 低权威(Low Authority) + 工具导向(Instrumental Orientation) + 技术技能(Technical Skills)  
-  - 例：机械工程师(Mechanical Engineers)↑12%占比（表29: Technical experts 42.9%）  
-- **组织工作逻辑**：行政场景(Administrative Setting) + 高权威(High Authority) + 效率导向(Efficiency Orientation) + 管理技能(Managerial Skills)  
-  - 例：高级经理(Higher-grade Managers)↑44.2%公共部门占比（表30）  
-- **人际工作逻辑**：服务场景(Service Setting) + 协商权威(Negotiated Authority) + 关系导向(Relational Orientation) + 社交技能(Social Skills)  
-  - 例：教师(Teachers)↑70.6%女性占比（Concluding Summary, Paragraph 1105）  
-  **符号化表达**：  
-  (工作场景(Work Setting)⫣ 技能类型(Skill Type)) → (职业分配(Occupational Allocation) ~⁺ ISCO/NYK编码密度(Code Density)↑0.7σ)  
-  （表8：依赖ISCO编码进行无监督分类）  
+### **一级机制: 工作逻辑与水平分层**
+#### **1. 三维工作逻辑的解剖学(Tripartite Work Logic as Horizontal Cleavage)**
+**实证基础**: Table 5.1显示三类工资劳动者的分化标准:
+- **技术工作逻辑**: 生产场景(Production Setting) + 低权威(Low Authority) + 工具导向(Instrumental Orientation) + 技术技能(Technical Skills)
+  - 例: 机械工程师(Mechanical Engineers)↑12%占比(表29: Technical experts 42.9%)
+- **组织工作逻辑**: 行政场景(Administrative Setting) + 高权威(High Authority) + 效率导向(Efficiency Orientation) + 管理技能(Managerial Skills)
+  - 例: 高级经理(Higher-grade Managers)↑44.2%公共部门占比(表30)
+- **人际工作逻辑**: 服务场景(Service Setting) + 协商权威(Negotiated Authority) + 关系导向(Relational Orientation) + 社交技能(Social Skills)
+  - 例: 教师(Teachers)↑70.6%女性占比(Concluding Summary, Paragraph 1105)
+  **符号化表达**:
+  (工作场景(Work Setting)⫣ 技能类型(Skill Type)) → (职业分配(Occupational Allocation) ~⁺ ISCO/NYK编码密度(Code Density)↑0.7σ)
+  (表8: 依赖ISCO编码进行无监督分类)
 
 ---
 
-#### **2. 垂直分层：权威与资本的双重筛选（Vertical Stratification via Authority & Capital）**  
-**数据支撑**：  
-- 技术专家(Technical Experts) vs 技师(Technicians)：  
-  - 收入差距：德国2000年DM2,400 vs DM1,600（段落23,24）  
-  - 养老金覆盖率差距：英国↑15.3% vs ↓8.5%（段落18）  
-- 经理层级(Managerial Hierarchy)：  
-  - 大型企业(Large Firms)↑40.1%组织工作逻辑集中度（表12）  
-  - 政治参与率：高级经理↑12.8%投票率 vs 文员↓4.1%（段落18）  
-  **动态循环**：  
-  (权威层级(Authority Hierarchy) ⇄⁺ 人力资本积累(Human Capital Accumulation) → 收入分化(Income Disparity)↑7% CAGR) ⇄⁻ 工会覆盖率(Trade Union Density)↓3.2σ  
+#### **2. 垂直分层: 权威与资本的双重筛选(Vertical Stratification via Authority & Capital)**
+**数据支撑**:
+- 技术专家(Technical Experts) vs 技师(Technicians):
+  - 收入差距: 德国2000年DM2,400 vs DM1,600(段落23,24)
+  - 养老金覆盖率差距: 英国↑15.3% vs ↓8.5%(段落18)
+- 经理层级(Managerial Hierarchy):
+  - 大型企业(Large Firms)↑40.1%组织工作逻辑集中度(表12)
+  - 政治参与率: 高级经理↑12.8%投票率 vs 文员↓4.1%(段落18)
+  **动态循环**:
+  (权威层级(Authority Hierarchy) ⇄⁺ 人力资本积累(Human Capital Accumulation) → 收入分化(Income Disparity)↑7% CAGR) ⇄⁻ 工会覆盖率(Trade Union Density)↓3.2σ
 
 ---
 
-### **二级机制：制度嵌入性的三重门（Triple Gates of Institutional Embeddedness）**  
-#### **1. 养老金系统：福利国家的筛选器（Pension as Welfare Filter）**  
-**关键发现**：  
-- 技术工人(Routine Operatives)养老金覆盖率↓39.8%（表29）  
-- 逻辑回归显示：阶级变量(Class Variable)对覆盖率的影响β=1.24（段落17）  
-- 德国技术专家覆盖率达↑53.6%（表12） vs 农业工人仅↑29.0%  
-**补偿效应假设**：  
-(养老金缺口(Pension Gap)⫣ 工会力量(Trade Union Power)↑ → 集体谈判覆盖率(Collective Bargaining)↑65.8%（表10))  
+### **二级机制: 制度嵌入性的三重门(Triple Gates of Institutional Embeddedness)**
+#### **1. 养老金系统: 福利国家的筛选器(Pension as Welfare Filter)**
+**关键发现**:
+- 技术工人(Routine Operatives)养老金覆盖率↓39.8%(表29)
+- 逻辑回归显示: 阶级变量(Class Variable)对覆盖率的影响β=1.24(段落17)
+- 德国技术专家覆盖率达↑53.6%(表12) vs 农业工人仅↑29.0%
+**补偿效应假设**:
+(养老金缺口(Pension Gap)⫣ 工会力量(Trade Union Power)↑ → 集体谈判覆盖率(Collective Bargaining)↑65.8%(表10))
 
 ---
 
-#### **2. 工会力量：产业公民权的断层线（Trade Union as Industrial Citizenship Fault Line）**  
-**跨国差异**：  
-- 瑞典工会密度(Swedish Union Density)↑82.5%（段落13）  
-- 英国低技能办公室职员(Low-skilled Clerks)入会率仅↑35.0%（表30）  
-- 人际工作逻辑从业者（如社工）入会率↑63.7%（表12）  
-**制度反馈环**：  
-(工会密度(Trade Union Density) ⇄⁺ 养老金覆盖率(Pension Coverage) → 阶级固化(Class Rigidification)↑0.4 Gini系数)  
+#### **2. 工会力量: 产业公民权的断层线(Trade Union as Industrial Citizenship Fault Line)**
+**跨国差异**:
+- 瑞典工会密度(Swedish Union Density)↑82.5%(段落13)
+- 英国低技能办公室职员(Low-skilled Clerks)入会率仅↑35.0%(表30)
+- 人际工作逻辑从业者(如社工)入会率↑63.7%(表12)
+**制度反馈环**:
+(工会密度(Trade Union Density) ⇄⁺ 养老金覆盖率(Pension Coverage) → 阶级固化(Class Rigidification)↑0.4 Gini系数)
 
 ---
 
-#### **3. 政治公民权：民主参与的阶级梯度（Political Citizenship as Class Gradient）**  
-**投票行为数据**：  
-- 高级经理投票率↑15.3% vs 体力工人↓6.2%（段落18）  
-- 德国公共部门雇员(Public Sector Employees)投票参与率↑70.6%（表12）  
-**公民权剥夺机制**：  
-(非公民身份(Non-citizenship)⫣ 低技能工作(Low-skilled Jobs) → 政治疏离(Political Alienation)↑2.7σ)  
+#### **3. 政治公民权: 民主参与的阶级梯度(Political Citizenship as Class Gradient)**
+**投票行为数据**:
+- 高级经理投票率↑15.3% vs 体力工人↓6.2%(段落18)
+- 德国公共部门雇员(Public Sector Employees)投票参与率↑70.6%(表12)
+**公民权剥夺机制**:
+(非公民身份(Non-citizenship)⫣ 低技能工作(Low-skilled Jobs) → 政治疏离(Political Alienation)↑2.7σ)
 
 ---
 
-### **三级机制：制度嵌入性的累积与补偿（Cumulation vs Compensation）**  
-#### **1. 累积劣势的实证证据（Cumulative Disadvantage Evidence）**  
-- 英国低技能工人(Low-skilled Workers)：  
-  - 养老金覆盖率↓38.5%（表29）  
-  - 工会成员率↓35.3%（表30）  
-  - 投票率↓4.1%（段落18）  
-  - 三重劣势概率↑3.8x（段落19）  
-  **符号模型**：  
-  (福利缺口(Welfare Gap) ⇄⁺ 政治排斥(Political Exclusion) ⇄⁺ 产业失权(Industrial Disempowerment)) → 贫困陷阱(Poverty Trap)⇄⁺ 1.2x代际传递率  
+### **三级机制: 制度嵌入性的累积与补偿(Cumulation vs Compensation)**
+#### **1. 累积劣势的实证证据(Cumulative Disadvantage Evidence)**
+- 英国低技能工人(Low-skilled Workers):
+  - 养老金覆盖率↓38.5%(表29)
+  - 工会成员率↓35.3%(表30)
+  - 投票率↓4.1%(段落18)
+  - 三重劣势概率↑3.8x(段落19)
+  **符号模型**:
+  (福利缺口(Welfare Gap) ⇄⁺ 政治排斥(Political Exclusion) ⇄⁺ 产业失权(Industrial Disempowerment)) → 贫困陷阱(Poverty Trap)⇄⁺ 1.2x代际传递率
 
 ---
 
-#### **2. 补偿效应的可能性（Compensation Hypothesis）**  
-- 瑞典案例：强工会(Strong Unions)↑82.5%覆盖率补偿弱养老金(Weak Pension)↓45.3%（表29）  
-- 德国技术专家：高收入(High Income)↑DM2,400补偿低投票率(Low Voting)↓9.7%（段落18,23）  
-**动态平衡**：  
-(市场优势(Market Advantage) ~⁻ 制度劣势(Institutional Disadvantage) → 总不平等(Total Inequality)⇄⁻ 0.7 Theil指数)  
+#### **2. 补偿效应的可能性(Compensation Hypothesis)**
+- 瑞典案例: 强工会(Strong Unions)↑82.5%覆盖率补偿弱养老金(Weak Pension)↓45.3%(表29)
+- 德国技术专家: 高收入(High Income)↑DM2,400补偿低投票率(Low Voting)↓9.7%(段落18,23)
+**动态平衡**:
+(市场优势(Market Advantage) ~⁻ 制度劣势(Institutional Disadvantage) → 总不平等(Total Inequality)⇄⁻ 0.7 Theil指数)
 
 ---
 
-### **四维验证：跨国比较（Four-Country Validation）**  
-#### **1. 英国：自由市场经济下的极化（Liberal Market Polarization）**  
-- 经理层(Managers)收入↑£28,000（段落25）  
-- 底层工人三重劣势概率↑4.2x（段落19）  
-- 工会密度↓29.4%（表9）  
+### **四维验证: 跨国比较(Four-Country Validation)**
+#### **1. 英国: 自由市场经济下的极化(Liberal Market Polarization)**
+- 经理层(Managers)收入↑£28,000(段落25)
+- 底层工人三重劣势概率↑4.2x(段落19)
+- 工会密度↓29.4%(表9)
 
 ---
 
-#### **2. 德国：协调市场中的制度缓冲（Coordinated Market Cushioning）**  
-- 技术专家收入梯度↑DM1,600（段落24）  
-- 公共部门覆盖率↑56.9%（表12）  
-- 公民权剥夺率↓12.1%（段落18）  
+#### **2. 德国: 协调市场中的制度缓冲(Coordinated Market Cushioning)**
+- 技术专家收入梯度↑DM1,600(段落24)
+- 公共部门覆盖率↑56.9%(表12)
+- 公民权剥夺率↓12.1%(段落18)
 
 ---
 
-#### **3. 瑞典：社会民主模式的均衡（Social Democratic Equilibrium）**  
-- 普遍养老金覆盖率↑82.5%（段落13）  
-- 工会-政党联结(Union-Party Linkage)↑91.7%（段落12）  
-- 水平阶级差异(Horizontal Class Difference)↓0.3σ（表29）  
+#### **3. 瑞典: 社会民主模式的均衡(Social Democratic Equilibrium)**
+- 普遍养老金覆盖率↑82.5%(段落13)
+- 工会-政党联结(Union-Party Linkage)↑91.7%(段落12)
+- 水平阶级差异(Horizontal Class Difference)↓0.3σ(表29)
 
 ---
 
-#### **4. 瑞士：保守合作主义的裂缝（Conservative Corporatist Fissures）**  
-- 小企业主(Small Proprietors)养老金缺口↑45.3%（表29）  
-- 移民工人(Migrant Workers)政治排斥率↑15.3%（段落18）  
-- 技术专家-经理联盟(Expert-Manager Alliance)收入↑CHF120,000（段落25）  
+#### **4. 瑞士: 保守合作主义的裂缝(Conservative Corporatist Fissures)**
+- 小企业主(Small Proprietors)养老金缺口↑45.3%(表29)
+- 移民工人(Migrant Workers)政治排斥率↑15.3%(段落18)
+- 技术专家-经理联盟(Expert-Manager Alliance)收入↑CHF120,000(段落25)
 
 ---
 
-### **Boardroom Insight**  
-Oesch's *Redrawing the Class Map* reveals how post-industrial class structures bifurcate along **technical/organizational/interpersonal work logics**, creating horizontal cleavages that interact with vertical hierarchies of authority and capital. The institutional embeddedness framework demonstrates that pension coverage (welfare), union density (industrial citizenship), and voting participation (political citizenship) aren't isolated silos but **cumulative disadvantage amplifiers**. Key datapoints:  
-- German managers earn DM2,400/month (↑70% vs operatives) but face pension coverage gaps (↓15% vs Sweden)  
-- British clerical workers suffer triple jeopardy: 35% union membership + 38.5% pension coverage + 4.1% voting turnout  
-- Swedish model shows compensation effects: 82.5% union density offsets 45.3% pension gaps for farmers  
+### **Boardroom Insight**
+Oesch's *Redrawing the Class Map* reveals how post-industrial class structures bifurcate along **technical/organizational/interpersonal work logics**, creating horizontal cleavages that interact with vertical hierarchies of authority and capital. The institutional embeddedness framework demonstrates that pension coverage (welfare), union density (industrial citizenship), and voting participation (political citizenship) aren't isolated silos but **cumulative disadvantage amplifiers**. Key datapoints:
+- German managers earn DM2,400/month (↑70% vs operatives) but face pension coverage gaps (↓15% vs Sweden)
+- British clerical workers suffer triple jeopardy: 35% union membership + 38.5% pension coverage + 4.1% voting turnout
+- Swedish model shows compensation effects: 82.5% union density offsets 45.3% pension gaps for farmers
 Investors must map sector exposures through these lenses: **automation-resistant interpersonal roles** (teachers, nurses) show resilience via institutional buffers, while **technical specialists** face bifurcation risks (elite experts vs precarious technicians). The real alpha lies in spotting **compensation arbitrage**—firms balancing market rewards with institutional safeguards will dominate the next stratification cycle.
