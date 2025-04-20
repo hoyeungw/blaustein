@@ -62,11 +62,9 @@
 - 神秘知识套利空间: 雅典→亚历山大里亚价差达17金衡制塔兰特
 ## Ⅴ. 神权代际迁移模型
 (新生代神系数μ=0.47 → 传统祭祀衰减率λ=0.33) 驱动系统更新:
-**迁移路径**:
-1. 自然神系(Nature Pantheon) → 2. 奥林匹斯体系(Olympian System)
-   → 3. 人格化抽象神(Anthropomorphic Abstracts)
-   → 4. 哲学概念(Philosophical Concepts)
-   **相变临界点**:
+**迁移路径**: 1. 自然神系(Nature Pantheon) → 2. 奥林匹斯体系(Olympian System) → 3. 人格化抽象神(Anthropomorphic Abstracts) → 4. 哲学概念(Philosophical Concepts)
+**相变临界点**:
+
 - 当城邦识字率>38%时, 抽象神祭祀占比突破60%阈值
 - 亚里士多德学派兴起导致传统祭祀衰减加速因子β=2.1
 ## Ⅵ. 艺术市场的神格定价机制

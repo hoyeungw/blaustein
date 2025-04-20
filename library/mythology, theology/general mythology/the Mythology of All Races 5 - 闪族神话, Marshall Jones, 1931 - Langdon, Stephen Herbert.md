@@ -83,7 +83,8 @@
 ---
 
 ## Ⅴ. **语言暴力的认知操控矩阵**
-### (语音模糊性(phonetic ambiguity) ⇄⁺ 解释权垄断(interpretative monopoly)) → (认知依赖指数(cognitive dependence) ~⁺ 社会控制成本↓)
+(语音模糊性(phonetic ambiguity) ⇄⁺ 解释权垄断(interpretative monopoly)) → (认知依赖指数(cognitive dependence) ~⁺ 社会控制成本↓)
+
 **机制解构**:
 1. **神名发音的刻意模糊**:
    - (Yâw/Yâu拼写差异 → 祭司纠错频次∫corrections↑ → 权威感知度↑23%)

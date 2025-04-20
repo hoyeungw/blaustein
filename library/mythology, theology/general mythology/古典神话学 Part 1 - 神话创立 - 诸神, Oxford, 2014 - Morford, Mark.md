@@ -74,8 +74,10 @@
 **符号逻辑**:
 (∫压抑欲望(repressed desire)[性/暴力/权力]↑ → 神话置换(displacement)↑) ⇄⁺ (梦境机制(dream-work)[凝缩/移置/具象化] ~⁺ 神话创作)
 **临床证据**:
+
 - 宙斯化身天鹅引诱Leda (∫性压抑(sexual repression)↑ → 动物化身(metamorphosis)概率↑41%)
 - 俄狄浦斯弑父娶母 (∫童年创伤(childhood trauma) → 叙事投射↑3.2σ)
+
 **局限边界**:
 (∫文化特异性(cultural specificity)↑ ⫣ 弗洛伊德泛性论↓) → 解释效度在非希腊语境中↓55%
 
